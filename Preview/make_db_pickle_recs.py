@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf8
 __author__ = 'yueyt'
-from Preview.initdata import bob, sue, tom
+from initdata import bob, sue, tom
 
 import pickle
 

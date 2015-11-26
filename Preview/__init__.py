@@ -1,3 +1,5 @@
 #!/usr/bin/env python
 # coding: utf8
 __author__ = 'yueyt'
+
+import Preview
